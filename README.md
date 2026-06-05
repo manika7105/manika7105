@@ -8,9 +8,9 @@ I'm currently focused on building a solid foundation in programming with:
 
 *   C/C++
 *   Python
-*   HTML
-*   CSS
+*   HTML, CSS, JS
 *   MySQL
+*   Java
 
 I'm eager to delve deeper into:
 
@@ -34,8 +34,9 @@ I'm a dedicated karateka 🥋, holding a Black Belt (1 Dan) and representing my 
 *   **GitHub:** https://github.com/manika7105
 *   **Instagram:** https://www.instagram.com/_.manikaaa_.07._/
 *   **Facebook:** https://www.facebook.com/manikagoel7105/
-*   **E-mail:** goelmanika07@gmail.com
-
+*   **E-mail:** Work    : goelmanika07@gmail.com
+                Personal: manikagoel07@gmail.com
+     
 ---
 
 I'm always learning and exploring new things 🔭. Feel free to connect! 😊
