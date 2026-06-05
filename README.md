@@ -34,8 +34,9 @@ I'm a dedicated karateka 🥋, holding a Black Belt (1 Dan) and representing my 
 *   **GitHub:** https://github.com/manika7105
 *   **Instagram:** https://www.instagram.com/_.manikaaa_.07._/
 *   **Facebook:** https://www.facebook.com/manikagoel7105/
-*   **E-mail:** Work    : goelmanika07@gmail.com
-                Personal: manikagoel07@gmail.com
+*   **E-mail:-**  
+    * Work    : goelmanika07@gmail.com  
+    * Personal: manikagoel07@gmail.com
      
 ---
 
